@@ -98,6 +98,7 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 🔹 Implement multi-threading for faster processing <br />
 🔹 Add support for multiple data sources like - excel, json, etc. <br />
 🔹 Add support for multiple database types (MySQL, PostgreSQL) <br />
+🔹 Implement unit testing using NUnit Framework. <br />
 
 ---
 <br />
