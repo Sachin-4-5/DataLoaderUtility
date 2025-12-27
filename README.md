@@ -1,7 +1,7 @@
 # DataLoader Application  
 
 ## 📖 Overview  
-DataLoader is a .NET Framework 4.7.2 legacy based console application that reads XML files and loads the data into a database using ADO.NET technique. This tool is designed to automate XML processing and database insertion efficiently.
+DataLoader (Legacy) is a .NET Framework 4.7.2 legacy based console application that reads XML files and loads the data into a database using ADO.NET technique. This tool is designed to automate XML processing and database insertion efficiently.
 
 ---
 <br />
@@ -23,7 +23,7 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 
 ## 🛠 Tech stack
 - C#
-- MS SQL Server (T-SQL)
+- MS SQL Server
 - ADO.NET
 
 ---
@@ -64,30 +64,6 @@ DataLoader is a .NET Framework 4.7.2 legacy based console application that reads
 │── script.sql
 │── Readme.md
 ```
-
----
-<br />
-
-
-
-## 🔧 Troubleshooting
-1️⃣ XML File Not Found?
-<ul>
-  <li>Ensure the path is correct in App.config.</li>
-  <li>Check if the file exists in the specified location.</li>
-</ul>
-
-2️⃣ Database Connection Issues?
-<ul>
-  <li>Verify App.config has the correct SQL Server credentials.</li>
-  <li>Ensure the SQL Server service is running.</li>
-</ul>
-
-3️⃣ File Processing Failed?
-<ul>
-  <li>Check Logs/ directory for error logs.</li>
-  <li>Validate XML structure using an XML validator tool.</li>
-</ul>
 
 ---
 <br />
