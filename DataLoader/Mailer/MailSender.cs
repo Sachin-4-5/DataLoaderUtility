@@ -49,17 +49,6 @@ namespace Mailer
                     client.EnableSsl = true;
                     client.Timeout = 30000;
 
-
-                    // Hardcoded credentials for testing
-                    /*
-                    client.Credentials = new NetworkCredential("sachinkumar778866@gmail.com", "lhqf aavy kaln lexi");
-                    client.Port = 587;
-                    client.Host = "smtp.gmail.com";
-                    client.DeliveryMethod = SmtpDeliveryMethod.Network;
-                    client.EnableSsl = true;
-                    client.Timeout = 30000;
-                    */
-
                     try
                     {
                         client.Send(mailer);
