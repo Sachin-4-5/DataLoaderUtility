@@ -15,7 +15,7 @@
 		<SHEET_NAMES></SHEET_NAMES>		<!-- Applicable only for Excel types. -->
 		<FILENAME_SP_PARAM>TRUE</FILENAME_SP_PARAM>
 		<REINSERT>True</REINSERT>
-		<ALERT_MAIL_ID>sachinkumarrana1005@gmail.com</ALERT_MAIL_ID>
+		<ALERT_MAIL_ID></ALERT_MAIL_ID>
 		<ALERT_MAIL_SUBJECT>Transaction File Loader</ALERT_MAIL_SUBJECT>
 		<DB_NAME>TransactionDB</DB_NAME>
 	</ATTRIBUTES>
